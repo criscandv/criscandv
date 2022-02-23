@@ -43,3 +43,7 @@ const criscandv = {
   },
 };
 ```
+
+<p align="center">
+  <img width="150" src="./img/criscandv-brand.png" />
+</p>
