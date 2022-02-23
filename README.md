@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hello, I'm Cristian 👋
 
-<!--
-**criscandv/criscandv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[criscandv.com](https://criscandv.com/en)
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 Software Engineer. JavaScript and Python Lover.
+- 🌱 5 years in programming ...
+- 👯 Love team work ...
+- 📙 Learning new technologies ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me...
+```js
+const criscandv = {
+  type: 'Fullstack developer',
+  languages: ['Spanish', 'English'],
+  skills: {
+    python: ['Django', 'Flask', 'SQLAlchemy', 'Celery'],
+    javascript: ['Node.js', 'Express', 'React', 'Next.js', 'Vue', 'TypeScript', 'GraphQL'],
+    databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite', 'redis'],
+    continousIntegration: ['Gitlab CI/CD', 'Jenkins', 'Ansible'],
+    servers: ['Linux', 'AWS', 'Docker', 'Nginx', 'Apache'],
+    css: ['Tailwind', 'PostCSS', 'ChakraUI', 'Vuetify', 'Bootstrap'],
+    versionControl: ['Git']
+  },
+  links: {
+    criscandv: "https://criscandv.com",
+    github: "https://github.com/criscandv",
+    linkedin: "https://linkedin.com/in/criscandv",
+    twitter: "https://twitter.com/criscandv",
+    instagram: "https://instagram.com/criscandv",
+  }
+}
+```
