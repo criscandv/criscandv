@@ -1,6 +1,6 @@
 ## Hello, I'm Cristian 👋
 
-<img width="150" align="right" src="./img/ccano.png" />
+<img width="150" align="right" src="./img/criscandv-profile-rounded.png" />
 
 ### Check my portfolio
 
